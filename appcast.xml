@@ -9,7 +9,7 @@
             <title>Version 1.1</title>
             <sparkle:releaseNotesLink>https://hm0x00.github.io/my-app-updates/release_notes_1.1.html</sparkle:releaseNotesLink>
             <pubDate>Tue, 20 Apr 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://hm0x00.github.io/my-app-updates/QQQQQ1.zip" sparkle:version="1.1" length="935018" type="application/octet-stream"/>
+            <enclosure url="https://hm0x00.github.io/my-app-updates/QQQQQ1.zip" sparkle:version="1.1" length="935371" type="application/octet-stream"/>
             <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
         </item>
     </channel>
